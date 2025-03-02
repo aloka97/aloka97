@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 <p>I am a <strong>Data Scientist</strong> at <strong>H One</strong>, a Microsoft partner company, specializing in <strong>AI, Data Engineering, and Business Intelligence solutions</strong>. My expertise includes developing AI-driven applications, working with Microsoft Fabric, Azure OpenAI, and implementing machine learning models to solve real-world problems.</p>
-<p>I have recently completed my <strong>Master’s degree</strong>, focusing on AI applications in finance and governance, and I am now applying for a <strong>PhD program</strong> in AI-driven software violation detection and repair algorithms.</p>
+<p>I have recently completed my <strong>Master’s degree</strong>, focusing on AI applications in finance and governance, and I am now interested in AI-driven software violation detection and repair algorithms.</p>
 
 <h2>Skills & Tech Stack</h2>
 <ul>
